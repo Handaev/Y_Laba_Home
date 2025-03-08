@@ -1,7 +1,4 @@
-package app;
-
-import logIn.Authorization;
-import logIn.Registration;
+package logIn;
 
 import java.util.Scanner;
 
